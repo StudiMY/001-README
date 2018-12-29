@@ -1,0 +1,87 @@
+Problem Solving with Python
+	Data Structure & Data Manipulation
+		String Manipulation
+			Text vs Bytes
+			Encoding / Decoding (Unicode Processing)
+		Files & I/O
+		Tuple
+		List
+			map, filter, reduce
+			List Comprehension
+		Dictionary & Sets
+			Dict Comprehension
+			Set Comprehension
+	Larger Programs
+		Network Programming
+			server-side scriptig
+			socket programming
+			client-side scripting
+		Databases
+		GUI Programming
+		System Programming
+			sys module
+			os module
+			scripting
+		Web Programming
+			Django
+			Flask
+			Dash
+	Syntax & Semantics
+		Control Flow
+			Context Manager
+			Concurrency
+			Coroutines
+			Recursion
+			Conditions
+				Operation & Operators
+				Truth Value
+				Ternary Expressions
+			Looping (Iteration)
+				for loop
+				while loop
+				break, continue, pass
+				iterators & generator
+					itertool
+		Variables, Expressions, Statements
+		Data Types
+			Other Types
+				Boolean
+				Dates & Times
+				Binary Sequence Types
+			Numeric Types
+			Text Sequence Types
+				String Slices
+				String Methods
+				String Formatting
+				Regular Expressions
+			Mutable vs Immutable
+		Functions
+			Composition
+			lambda
+			Scopes
+			Arguments
+			Generator & Decorators
+	Programming Paradigm
+		Object-Oriented Programming (OOP)
+			Metaclass & ABC
+			Operator Overloading
+			References , Mutability
+			Classes & Objects (Encapsulation)
+			Inheritance / Multiple Inheritance
+			Python Magic Methods
+		Functional Programming (FP)
+			Descriptors & Decorators
+			Higher-order Function
+			Closure
+			Properties
+			functool
+	Algorithm
+	Environment / Packaging
+		Deployment
+		Documentation
+		Command Line (shell) & IDLE
+		Exception Handling
+		Modules & Packages (namespaces)
+		Virtual Environment
+		Debugging & Development Tools
+		Testing
