@@ -30,7 +30,7 @@ Although your learning is topical, knowing how to apply your knowledge is always
 
 How To Contribute to Mindmap
 ----------------------------
-1. Update the `this text file <mhttps://github.com/StudiMY/101-beginning-python/Problem_Solving_with_Python.txt>`_.
+1. Update the `this text file <https://github.com/StudiMY/101-beginning-python/Problem_Solving_with_Python.txt>`_.
 2. Core team will `upload import the text file into coggle <https://coggle.help/article/34-import-files-into-coggle>`_.
 
 
