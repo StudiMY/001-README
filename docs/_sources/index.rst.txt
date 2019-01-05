@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-StudiMy: A practical curriculum to programming in Python
+StudiMY: A practical curriculum to programming in Python
 #########################################################
 
 Introduction
@@ -134,7 +134,7 @@ Although your learning is topical, knowing how to apply your knowledge is always
 
 How To Contribute to Mindmap
 ----------------------------
-1. Update the `this text file <https://github.com/StudiMY/101-README/blob/mindmap/Problem_Solving_with_Python.txt>`_.
+1. Update the `this text file <https://github.com/StudiMY/001-README/blob/master/Problem_Solving_with_Python.txt>`_.
 2. Core team will `upload import the text file into coggle <https://coggle.help/article/34-import-files-into-coggle>`_.
 
 
