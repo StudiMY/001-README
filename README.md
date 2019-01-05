@@ -7,31 +7,32 @@ and maintain a study curriculum and materials for the teaching of programming in
 environment, guided by a mentor. These curriculum and materials are licensed under the
 Creative Commons and is available for anyone to use.
 
-## Teaching concepts
-StudiMY puts emphasis on classroom experience and understanding when
-writing its curriculum. We do not try to cram every topic to mark as many
-checkboxes as possible.
-
-The overall vision it to produce a higher level of understanding from practical
-knowledge by doing actual exercises while walking through a particular curriculum,
-with the mentor pointing in the right direction and students helping among themselves.
-
-We believe this will allow students to not just be programmers, but engineers
-and makers in the long run by cultivating the ability to identify reusable
-concepts and self-study through trial-and-error.
-
-# Project structure
-Each repository in the project represents one classroom curriculum. Each
-classroom curriculum can be considered a 5-hour learning experience, led by at
-least one mentor.
-
+## What is this repository
 This repository will contain the overall idea on what StudiMY is and how you
 can use the materials in the project.
 
-## Repositories
-Each repository will contain the classroom text to be used for that particular
-curriculum. These texts can be used on its own if desired, but it is designed in
-a way to be taught alongside a mentor in a classroom environment.
+# Making changes
+We use Sphinx to produce the documentation for this repository. You can add new
+text or change the current text by making changes to files in the
+**docs/source** directory.
+
+Files for themes such as .css files should be placed in **docs/source/static**
+while images should go to **docs/source/images** directories.
+
+Once you're done making changes, run
+```
+cd docs
+make html
+```
+to produce the html files, which will replace the files in the docs directory.
+You can verify your changes by accessing the **docs/index.html** file.
+
+## Publish to GitHub
+If you have access to the *master* branch, commiting and pushing the master
+branch after *make html* will automatically publish the changes to GitHub Pages.
+
+Remember that we need to have the file *.nojekyll*  in the *docs* directory in
+order for GitHub to correctly read our \_static and \_images files.
 
 # Licensing
 All materials produced by StudiMY are licensed under [Creative Commons Ver
