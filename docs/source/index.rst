@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-StudiMy: A practical curriculum to programming in Python
+StudiMY: A practical curriculum to programming in Python
 #########################################################
 
 Introduction
