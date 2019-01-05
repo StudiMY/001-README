@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'The StudiMY Project'
-copyright = '2018, MARIMORE ENGINEERING SDN. BHD. (925539-H)'
+copyright = '2019, MARIMORE ENGINEERING SDN. BHD. (925539-H)'
 author = 'Chee Yim, Goh and Iqbal Abdullah'
 
 # The short X.Y version
