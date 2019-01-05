@@ -11,6 +11,9 @@ Creative Commons and is available for anyone to use.
 This repository will contain the overall idea on what StudiMY is and how you
 can use the materials in the project.
 
+Go to [StudiMy: A practical curriculum to programming in Python](https://studimy.github.io/001-README/)
+to read it.
+
 # Making changes
 We use Sphinx to produce the documentation for this repository. You can add new
 text or change the current text by making changes to files in the
