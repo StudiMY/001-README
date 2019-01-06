@@ -49,7 +49,7 @@ still be the accesibility of getting your first step to understanding and using 
 programming language.
 
 Our Aim
-=============
+=============================
 Our aim is not to be your run-of-the-mill one stop shop to study programming.
 We are community driven (anyone can choose to use or contribute to the curriculum and
 materials in this project) and we focus on Python as a tool for you to learn
@@ -60,6 +60,11 @@ but to first transform them into engineers, capable of problem solving through u
 Python ecosystem and engineering best practices, who are aware of the important role of
 community to learning, and finally hopefully turn into a contributing part of that community
 and help others learn to program.
+
+.. topic:: Our Aim
+
+   Is so that everyone can solve problems with Python
+
 
 Of course, learning programming will certainly give you a skill set to move up your carrier
 or to perhaps future-proof yourself, but we do not envision the students taking

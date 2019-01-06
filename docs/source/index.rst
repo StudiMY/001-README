@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-#########################################################
-StudiMY: A practical curriculum to programming in Python
-#########################################################
+#######################################################################
+StudiMY: A practical curriculum to problem solving through programming
+#######################################################################
 
 This is the main documentation explaining the idea, concepts and aims of the
 StudiMY project. If you're new to StudiMY, we suggest you quickly go through
@@ -19,8 +19,8 @@ these documentation to familiarize yourself with the project.
    methods_concepts/index
    roadmap/index
 
-Curriculums
-==================
+Problem solving with Python curriculums
+========================================
 
 #. `101 Beginning Python <https://github.com/StudiMY/101-beginning-python>`_
    First part of the beginner series
@@ -28,6 +28,6 @@ Curriculums
    Working on the work done on 101, the second part of the beginner series
 
 Indices and tables
-==================
+========================================
 
 * :ref:`search`
