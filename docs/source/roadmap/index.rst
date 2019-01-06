@@ -27,6 +27,15 @@ Although your learning is topical, knowing how to apply your knowledge is always
 
     .. image:: ../images/Problem_Solving_with_Python.png
 
+Curriculums
+===========
+
+We have structured our curriculums based on the mindmap, covering topics we think it's appropriate for a specific level.
+
+.. topic:: Curriculums Mindmap
+
+    .. image:: ../images/Problem_Solving_with_Python_Curriculum.png
+
 How To Contribute to Mindmap
 ----------------------------
 1. Update the `this text file <https://github.com/StudiMY/001-README/blob/master/Problem_Solving_with_Python.txt>`_.
